@@ -1,0 +1,3 @@
+from DataBase import DataBase as db
+
+data = db.DataBase()
